@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yandex Disk App</string>
+
+    <string name="trashSize">Trash size:</string>
+    <string name="totalSpace">Total size:</string>
+    <string name="usedSpace">Used space:</string>
+    <string name="systemFolders">System folders:</string>
+
+    <string name="diskInfo">Open disk info</string>
+    <string name="createDir">Create resource</string>
+    <string name="updateDir">Update resource</string>
+    <string name="deleteDir">Delete resource</string>
+    <string name="token">Token repository</string>
+    <string name="forToken">Please paste your authentication token here</string>
+    <string name="resourceList">Resource list</string>
+
+
+    <string name="acceptButtonString">Accept</string>
+    <string name="cancelButtonString">Cancel</string>
+
+</resources>
